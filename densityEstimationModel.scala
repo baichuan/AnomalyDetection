@@ -1,4 +1,5 @@
 // Author: Baichuan Zhang
+// Mentor: Yanbo Liang
 // Code was written during the 2016 summer intern at Spark team in Hortonworks
 
 import org.apache.spark.ml.feature.{VectorAssembler, PCA}
